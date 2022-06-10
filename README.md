@@ -1,6 +1,5 @@
 ### Hi there my name is Porshea Ellis 👋
-- 🔭 I’m currently working on obtaining my Google Data Analytics Certification and creating mini projects to keep up my python coding skills
-- 🌱 I’m currently learning all things data analytics
+- 🌱 I’m love learning new data analytics skills
 - :mortar_board: I recently completed a 24wk FinTech Bootcamp through SMU
 - 😄 Pronouns: She/Her
 <!--
