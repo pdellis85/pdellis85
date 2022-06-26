@@ -1,7 +1,12 @@
 ### Hi there my name is Porshea Ellis 👋
-- 🌱 I’m love learning new data analytics skills
-- :mortar_board: I recently completed a 24wk FinTech Bootcamp through SMU
+- I'm interested all things data analytics, python coding and data visualization
 - 😄 Pronouns: She/Her
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pellis85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pellis85" height="30" width="40" /></a>
+</p>
+
 <!--
 **pdellis85/pdellis85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
