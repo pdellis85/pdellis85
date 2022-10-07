@@ -1,5 +1,5 @@
 ### Hi there my name is Porshea Ellis 👋
-- I'm interested all things data analytics, python coding and data visualization
+- I'm interested all things Business Analytics, Data Analytics and Data Visualization
 - 😄 Pronouns: She/Her
 
 <h3 align="left">Connect with me:</h3>
