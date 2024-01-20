@@ -1,5 +1,5 @@
 ### Hi there my name is Porshea Ellis 👋
-- I'm interested all things Business Analysis, Business Analytics, Data Analytics and Data Visualization
+- I'm interested all things Data Science, Business Analytics, Data Analytics, Machine Learning, Statistics and Data Visualization
 - 😄 Pronouns: She/Her/They/Them
 
 <h3 align="left">Connect with me:</h3>
